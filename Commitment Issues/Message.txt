@@ -1,1 +1,3 @@
-echo "Don't forget the flag: TI404{hanan123}" > message.txt
+echo "No flag here!" > message.txt
+
+
